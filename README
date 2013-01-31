@@ -17,3 +17,14 @@ Installation:
 
 To-do list:
 
+=========
+2013Jan31
+L. Moustakas
+
+Changes to make:
+o Update the command line parsing to argparse, to enable 
+  consistent functionality between unix or python prompts.
+o Add option of showing fiducial / truth points in the plots.
+o Add a "rich" option of showing the marginalization results
+  in the top right of the figure.
+
